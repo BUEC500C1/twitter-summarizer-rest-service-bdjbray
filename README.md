@@ -28,10 +28,11 @@ Do a sequence of all texts and images in chronological order
 Display each video frame for 3 seconds
 
 
-**Solutions top the homework**
+**Solutions to the homework**
 ***
 
 **Set up environment**
+
 Download FFmpeg
 
 Try to use command to re encode the video
