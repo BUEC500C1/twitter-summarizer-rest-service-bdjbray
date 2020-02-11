@@ -49,7 +49,7 @@ reencode video 720p at 2Mbps and 30fps
 
 reencode video 480p at 1Mbps and 30fps
 
-`ffmpeg -i input.mp4 -c:a copy -c:v copy -r 30 -s hd480 -b:v 1M output.mp4`
+`ffmpeg -i test.mp4 -c:a copy -c:v copy -r 30 -s hd480 -b:v 1M output.mp4`
 
 
 
