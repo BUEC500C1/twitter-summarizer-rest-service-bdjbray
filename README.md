@@ -51,6 +51,13 @@ reencode video 480p at 1Mbps and 30fps
 
 `ffmpeg -i test.mp4 -c:a copy -c:v copy -r 30 -s hd480 -b:v 1M output.mp4`
 
+**TASK1**
+
+We can use `top` command our `iostat` command to check the CPU usage.
+
+For my test, it takes 15.7% of my CPU, and my computer is quad-core.
+
+So theoretically my computer can run 25 same operations in the same time.
 
 
 
