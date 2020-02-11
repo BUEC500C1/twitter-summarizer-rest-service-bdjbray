@@ -63,7 +63,7 @@ A simple python code to for users to re-encode videos at 720p at 2Mbps and 30fps
 
 User should download FFmpeg first.
 
-Run the program with command "python testmpeg.py filename1 filename2".
+Run the program with command "python testffmpeg.py filename1 filename2".
 
 filename1 is the name of the file you want to encode.
 
