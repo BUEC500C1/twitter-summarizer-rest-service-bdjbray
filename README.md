@@ -2,7 +2,7 @@
 video-bdjbray created by GitHub Classroom
 
 **Details of HW4:**
-***
+*
 **Task1**
 
 Estimate the processing power need to execute such operations on your computer
