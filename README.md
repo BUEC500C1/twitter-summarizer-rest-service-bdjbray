@@ -69,6 +69,11 @@ filename1 is the name of the file you want to encode.
 
 filename2 is the output file name you want.
 
+**MAIN EXERCISE**
+
+Retrieve the tweets of a targeted user, and convert the text into a frame.
+
+Play the video, each frame will be showed for 3 seconds.
 
 
 
