@@ -76,6 +76,14 @@ Retrieve the tweets of a targeted user, and convert the text into a frame.
 Play the video, each frame will be showed for 3 seconds.
 
 
+#Setup
+
+Use command line to download my repo:
+git clone
+
+
+
+
 
 
 
