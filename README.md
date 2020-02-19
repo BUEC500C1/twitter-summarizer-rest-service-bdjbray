@@ -79,7 +79,9 @@ Play the video, each frame will be showed for 3 seconds.
 # Setup
 
 Use command line to download my repo:
-git clone
+
+git clone https://github.com/BUEC500C1/video-bdjbray.git
+
 
 
 
