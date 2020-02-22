@@ -108,6 +108,15 @@ I have provided one inside the main_exercise file.
 Example: /Users/brayb/video-bdjbray/main_exercise/background.PNG
 
 
+# Result and Notice
+
+After the python command, if your see the below notice, pleace type y and press ENTER.
+
+Because the program is splicing different images to a video.
+
+
+
+
 
 
 
