@@ -114,6 +114,8 @@ After the python command, if your see the below notice, pleace type y and press 
 
 Because the program is splicing different images to a video.
 
+![image](https://github.com/BUEC500C1/video-bdjbray/blob/master/imgs/notice.png)
+
 
 
 
