@@ -107,6 +107,8 @@ I have provided one inside the main_exercise file.
 
 Example: /Users/brayb/video-bdjbray/main_exercise/background.PNG
 
+5,the six recent tweets of the selected user will be spliced into a video, each video frame will be displayed for three seconds.
+
 
 # Result and Notice
 
