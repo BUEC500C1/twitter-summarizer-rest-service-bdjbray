@@ -104,15 +104,16 @@ if __name__ == '__main__':
     twitter_client = TwitterClient()
     tweet_analyzer = TweetAnalyzer()
     api = twitter_client.get_twitter_client_api()
-
-    tweets = api.user_timeline(screen_name="tim_cook", count=10)  #choose the user we want to listen and the number of tweets we want to analyse
+    thechosen_user=sys.argv[1]
+    thebackground=sys.argv[2]
+    tweets = api.user_timeline(screen_name=thechosen_user, count=10)  #choose the user we want to listen and the number of tweets we want to analyse
     df = tweet_analyzer.tweets_to_data_frame(tweets)
     pd.set_option('display.max_colwidth', -1)  #change the maximum size
     #print(df.head(5))  #choose the first ten objects in the dataframe
     #os.system("ffmpeg -i test.jpg  -vf drawtext=text="text1":fontcolor=black:fontsize=75:x=1002:y=100: tttt.jpg")
     for i in range(1,5):
         text1=str(df.head(i))
-        image=Image.open('/Users/brayb/Downloads/pythonws/ec500/background.PNG')
+        image=Image.open(thebackground)
         font_type=ImageFont.truetype('Arial.ttf',25)
         draw=ImageDraw.Draw(image)
         draw.text(xy=(50,50),text=text1,fill=(0,0,0),font=font_type)
