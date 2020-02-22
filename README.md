@@ -93,6 +93,22 @@ Use the below command line to run the program:
 
 `python twitter.py the_username_of_the_user the_location_of_the_background`
 
+the_username_of_the_user:
+
+Could be any user that you want to choose,should be their twitter username,not their real name.
+
+Example:KingJames Example2:BarackObama
+
+the_location_of_the_background:
+
+The directory of the background paper that you want to choose.
+
+I have provided one inside the main_exercise file.
+
+Example: /Users/brayb/video-bdjbray/main_exercise/background.PNG
+
+
+
 
 
 
