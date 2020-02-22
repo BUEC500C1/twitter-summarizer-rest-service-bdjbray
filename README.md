@@ -78,9 +78,20 @@ Play the video, each frame will be showed for 3 seconds.
 
 # Setup
 
-Use command line to download my repo:
+Use the below command line to download my repo:
 
-git clone https://github.com/BUEC500C1/video-bdjbray.git
+`git clone https://github.com/BUEC500C1/video-bdjbray.git`
+
+Use the below commad line to download the required files:
+
+`pip3 install -r requirements.txt`
+
+Replace the key in the file named twitter_credentials.py with your own key:
+
+
+Use the below command line to run the program:
+
+`python twitter.py the_username_of_the_user the_location_of_the_background`
 
 
 
