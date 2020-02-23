@@ -110,15 +110,10 @@ Example: /Users/brayb/video-bdjbray/main_exercise/background.PNG
 5,the six recent tweets of the selected user will be spliced into a video, each video frame will be displayed for three seconds.
 
 
-# Result and Notice
+# Result 
 
-1,After the python command, if your see the below notice, pleace type y and press ENTER.
 
-Because the program is splicing different images to a video.
-
-![image](https://github.com/BUEC500C1/video-bdjbray/blob/master/imgs/notice.png)
-
-2,You can choose any user you want one at a time, the picture below is a result after retrieving tweets of three users.
+You can choose any user you want one at a time, the picture below is a result after retrieving tweets of three users.
 
 
 ![image](https://github.com/BUEC500C1/video-bdjbray/blob/master/imgs/result.png)
