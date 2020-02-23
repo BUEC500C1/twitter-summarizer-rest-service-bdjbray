@@ -135,9 +135,11 @@ You may change the users in the name_list to whoever you want.
 
 ### Result
 
-https://github.com/BUEC500C1/video-bdjbray/blob/master/imgs/queueResult1.png
+Some demos for the notices:
 
-https://github.com/BUEC500C1/video-bdjbray/blob/master/imgs/queueResult2.png
+![image](https://github.com/BUEC500C1/video-bdjbray/blob/master/imgs/queueResult1.png)
+
+![image](https://github.com/BUEC500C1/video-bdjbray/blob/master/imgs/queueResult2.png)
 
 
 
