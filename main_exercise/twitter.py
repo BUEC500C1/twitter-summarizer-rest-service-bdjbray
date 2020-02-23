@@ -4,6 +4,7 @@ from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream
 from PIL import Image,ImageDraw,ImageFont
+import PIL
  
 
 import twitter_credentials
@@ -111,14 +112,17 @@ if __name__ == '__main__':
     pd.set_option('display.max_colwidth', -1)  #change the maximum size
     #print(df.head(5))  #choose the first ten objects in the dataframe
     #os.system("ffmpeg -i test.jpg  -vf drawtext=text="text1":fontcolor=black:fontsize=75:x=1002:y=100: tttt.jpg")
-    for i in range(1,5):
+    for i in range(1,7):
         text1=str(df.head(i))
         image=Image.open(thebackground)
-        font_type=ImageFont.truetype('Arial.ttf',25)
+        font_type=ImageFont.truetype('Arial.ttf',20)
         draw=ImageDraw.Draw(image)
         draw.text(xy=(50,50),text=text1,fill=(0,0,0),font=font_type)
-        image.show()
-        time.sleep(3)
+        #image.show()
+        image.save("img0"+str(i)+".PNG")
+        #time.sleep(3)
+    cmd1="ffmpeg -r 1/3 -i img%02d.png -c:v libx264 -vf fps=25 -pix_fmt yuv420p tweets.mp4"
+    os.system(cmd1)
 
 
 
