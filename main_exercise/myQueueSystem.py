@@ -9,7 +9,6 @@ def thread_function(name):
     logging.info("Thread %s: starting", name)
     cmdmulti="python twitter.py "+str(name)+" /Users/brayb/Downloads/pythonws/ec500/homework1_2_4/background.PNG"
     os.system(cmdmulti)
-    time.sleep(2)
     logging.info("Thread %s: finishing", name)
 
 if __name__ == "__main__":
@@ -18,7 +17,7 @@ if __name__ == "__main__":
                         datefmt="%H:%M:%S")
 
     threads = list()
-    name_list=["KingJames","BarackObama","tim_cook"]
+    name_list=["KingJames","BarackObama","tim_cook","justinbieber"]
     for index in name_list:
         logging.info("Main    : create and start thread %d.", index)
         x = threading.Thread(target=thread_function, args=(index,))
