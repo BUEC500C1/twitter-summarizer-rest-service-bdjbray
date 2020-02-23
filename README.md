@@ -144,7 +144,7 @@ Some demos for the notices:
 
 ### Notice
 
-If you see the notice as below, please type y and press ENTER
+If you see the notice below, please type y and press ENTER
 
 ![image](https://github.com/BUEC500C1/video-bdjbray/blob/master/imgs/notice.png)
 
