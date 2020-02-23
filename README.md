@@ -119,6 +119,21 @@ You can choose any user you want one at a time, the picture below is a result af
 ![image](https://github.com/BUEC500C1/video-bdjbray/blob/master/imgs/result.png)
 
 
+# Queue System
+
+The program for queue system is in the main exercise file, named myQueueSystem.py
+
+It will collect tweets and transfer to video for all the user's that in the name_list.
+
+You will be informed which process is now going on, which process just finished and etc.
+
+To run the program:
+
+`python myQueueSystem.py`
+
+You may change the users in the name_list to whoever you want. 
+
+
 
 
 
