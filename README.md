@@ -142,6 +142,13 @@ Some demos for the notices:
 ![image](https://github.com/BUEC500C1/video-bdjbray/blob/master/imgs/queueResult2.png)
 
 
+### Notice
+
+If you see the notice as below, please type y and press ENTER
+
+![image](https://github.com/BUEC500C1/video-bdjbray/blob/master/imgs/notice.png)
+
+
 
 
 
