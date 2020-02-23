@@ -133,6 +133,12 @@ To run the program:
 
 You may change the users in the name_list to whoever you want. 
 
+### Result
+
+https://github.com/BUEC500C1/video-bdjbray/blob/master/imgs/queueResult1.png
+
+https://github.com/BUEC500C1/video-bdjbray/blob/master/imgs/queueResult2.png
+
 
 
 
