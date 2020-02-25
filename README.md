@@ -105,7 +105,7 @@ Example:KingJames Example2:BarackObama
 # Result 
 
 
-You can choose any user you want one at a time, the picture below is a result after retrieving tweets of three users.
+You can choose any user you want, the picture below is a result after using queue system to retrieve tweets of four users.
 
 
 ![image](https://github.com/BUEC500C1/video-bdjbray/blob/master/imgs/result.png)
