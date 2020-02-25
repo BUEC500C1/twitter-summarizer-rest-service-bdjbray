@@ -7,7 +7,7 @@ import os
 def thread_function(name):
     print(name)
     logging.info("Thread %s: starting", name)
-    cmdmulti="python twitter.py "+str(name)+" /Users/brayb/Downloads/pythonws/ec500/homework1_2_4/background.PNG"
+    cmdmulti="python twitter.py "+str(name)
     os.system(cmdmulti)
     logging.info("Thread %s: finishing", name)
 
