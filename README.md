@@ -19,6 +19,10 @@ KEep your server off until we request it for grading.  We dont want you to waste
 
 # Result
 
+### The landing page:
+
+User can choose any twitter user they want.The tweets will be colected and converted to a video.
+
 ![image](https://github.com/BUEC500C1/twitter-summarizer-rest-service-bdjbray/blob/master/flask/imgs/rest_result.png)
 
 
