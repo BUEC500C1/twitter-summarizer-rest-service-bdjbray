@@ -19,7 +19,7 @@ KEep your server off until we request it for grading.  We dont want you to waste
 
 # Result
 
-![image]()
+![image](https://github.com/BUEC500C1/twitter-summarizer-rest-service-bdjbray/blob/master/flask/imgs/rest_result.png)
 
 
 
