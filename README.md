@@ -23,8 +23,16 @@ KEep your server off until we request it for grading.  We dont want you to waste
 
 User can choose any twitter user they want.The tweets will be colected and converted to a video.
 
+Introduce the basic functions.
+
 ![image](https://github.com/BUEC500C1/twitter-summarizer-rest-service-bdjbray/blob/master/flask/imgs/rest_result.png)
 
+### After retrieving data 
+
+Tell the user the video have been collected.Provide a button for user to return.
+
+
+![image](https://github.com/BUEC500C1/twitter-summarizer-rest-service-bdjbray/blob/master/flask/imgs/rest_result1.png)
 
 
 
