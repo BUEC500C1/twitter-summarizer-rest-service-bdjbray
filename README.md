@@ -34,6 +34,10 @@ Tell the user the video have been collected.Provide a button for user to return.
 
 ![image](https://github.com/BUEC500C1/twitter-summarizer-rest-service-bdjbray/blob/master/flask/imgs/rest_result1.png)
 
+### notice
+
+The code and documents for this assignment is in the file called 'flask'
+
 
 
 
