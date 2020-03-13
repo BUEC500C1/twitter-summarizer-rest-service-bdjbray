@@ -18,7 +18,7 @@ def hello():
     print(the_name)
     cmdmulti="python twitter.py "+str(the_name)
     os.system(cmdmulti)
-    return 'Thanks for usings! <br/> The tweets of %s have been collected! <br/> <a href="/">Back Home</a>' % (the_name)
+    return 'Thanks for using! <br/> The tweets of %s have been collected! <br/> <a href="/">Back Home</a>' % (the_name)
 
 @app.route("/about")
 def about():
