@@ -59,6 +59,13 @@ python basicflask.py
 The code and documents for this assignment is in the file called `flask`
 
 
+# Deploy the system with AWS
+
+The endpoint of the static website is http://www.myrestapp.com.s3-website-us-east-1.amazonaws.com
+
+I temporarily terminated the servise to avoid unnecessary charge.
+
+
 
 
 
