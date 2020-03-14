@@ -34,6 +34,26 @@ Tell the user the video have been collected.Provide a button for user to return.
 
 ![image](https://github.com/BUEC500C1/twitter-summarizer-rest-service-bdjbray/blob/master/flask/imgs/rest_result1.png)
 
+
+# Setup
+
+1,Use the below command line to download my repo:
+
+`git clone `
+
+2,Use the below commad line to download the required files:
+
+`pip3 install -r requirements.txt`
+
+3,Replace the key in the file named twitter_credentials.py with your own key:
+
+
+4,Use the below command line to run the program:
+
+python basicflask.py 
+
+5,Copy the URL and jump to the address
+
 ### notice
 
 The code and documents for this assignment is in the file called `flask`
