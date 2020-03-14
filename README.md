@@ -39,7 +39,7 @@ Tell the user the video have been collected.Provide a button for user to return.
 
 1,Use the below command line to download my repo:
 
-`git clone `
+`git clone https://github.com/BUEC500C1/twitter-summarizer-rest-service-bdjbray.git`
 
 2,Use the below commad line to download the required files:
 
