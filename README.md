@@ -29,10 +29,8 @@ Introduce the basic functions.
 
 ### After retrieving data 
 
-Tell the user the video have been collected.Provide a button for user to return.
+Tell the user the video can be downloaded.
 
-
-![image](https://github.com/BUEC500C1/twitter-summarizer-rest-service-bdjbray/blob/master/flask/imgs/rest_result1.png)
 
 
 # Setup
