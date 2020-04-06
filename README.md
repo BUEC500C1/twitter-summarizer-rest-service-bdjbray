@@ -25,7 +25,7 @@ User can choose any twitter user they want.The tweets will be colected and conve
 
 Introduce the basic functions.
 
-![image](https://github.com/BUEC500C1/twitter-summarizer-rest-service-bdjbray/blob/master/flask/imgs/rest_result.png)
+![image](https://github.com/BUEC500C1/twitter-summarizer-rest-service-bdjbray/blob/master/imgs/Screen%20Shot%202020-04-06%20at%206.46.42%20PM.png)
 
 ### After retrieving data 
 
